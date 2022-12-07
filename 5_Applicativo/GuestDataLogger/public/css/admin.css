@@ -1,0 +1,14 @@
+:root{
+    --primary: #6ce5e8; /*fca311, d68a0f*/
+    --text: #14213d;
+}
+
+.cartoon-input{
+    border: 3px solid var(--text);
+}
+
+input [type=datetime-local]{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
