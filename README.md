@@ -2,6 +2,9 @@
 Author: Gioele Cavallo
 
 ## Info
+
+This project was created in order to be able to count people in a pavilion through the use of AI and consult visit data conveniently from a website.
+
 --- 
 ### Links:
 - [Site](5_Applicativo/GuestDataLogger/)
